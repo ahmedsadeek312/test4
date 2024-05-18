@@ -1,0 +1,1 @@
+test.innerHTML="hello from js"
